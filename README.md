@@ -24,6 +24,7 @@
 | [Desentramar una lista doblemente enlazada](Enunciados/13._Desentramar_una_lista_doblemente_enlazada.pdf) | [Solution](Soluciones/13_Desentramar_lista_enl.cpp) |
 | [Ordenación por selección](Enunciados/23._Ordenacion_por_seleccion.pdf) | [Solution](Soluciones/23_Ord_por_selec.cpp) |
 | [Suavizar lista de números enteros](Enunciados/Extra._Suavizar_lista_de_numeros_enteros.pdf) | [Solution](Soluciones/Suavizar_una_list_de_num_ent.cpp) |
+| [Rotar una lista hacia la derecha](Enunciados/X14._Rotar_una_lista_hacia_la_derecha.pdf) | [Solution](Soluciones/X14_Rot_dcha_lista.cpp) |
 
 ---
 
@@ -79,6 +80,7 @@
 | [Torneo de tenis](Enunciados/X2._Torneo_de_tenis.pdf) | [Solution](Soluciones/X2_Torneo_de_tenis.cpp) |
 | [Área más grande de un árbol binario](Enunciados/X3._Area_mas_grande_de_un_arbol_binario.pdf) | [Solution](Soluciones/X3_Area_mas_grande_en_arb_bin.cpp) |
 | [¿Es un árbol binario completo o semicompleto?](Enunciados/X8._Es_un_arbol_binario_completo_o_semicompleto_.pdf) | [Solution](Soluciones/X8_Es_arb_bin_comp_o_semicomp.cpp) |
+| [Subárbol completo más grande](X10._Subarbol_completo_mas_grande.pdf) | [Solution](Soluciones/X10_Subarb_comp_mas_grande.cpp) |
 
 ---
 
