@@ -114,3 +114,5 @@
 | [Oficinas de empleo](Enunciados/54._Oficinas_de_empleo.pdf) | [Solution](Soluciones/54_Oficinas_de_empleo.cpp) |
 | [Servicio de urgencias](Enunciados/55._Servicio_de_urgencias.pdf) | [Solution](Soluciones/55_Servicio_de_urgencias.cpp) |
 | [Academia de chino](Enunciados/X9._Academia_de_chino.pdf) | [Solution](Soluciones/X9_ChinoAcademy.cpp) |
+| [Gestion de una tienda](Enunciados/X11._Gestion_de_una_tienda.pdf) | [Solution](Soluciones/X11_Gestion_de_una_tienda.cpp) |
+| [Detective de moda](Enunciados/X12.Detective_de_moda.pdf) | [Solution](Soluciones/X12_Detective_de_moda.cpp) |
