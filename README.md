@@ -2,10 +2,10 @@
 
 | Problem | Solution |
 | --- | --- |
-| [¿A qué hora pasa el próximo tren?](Enunciados/1._A_que_hora_pasa_el_proximo_tren.pdf) | [Solution](Soluciones/1. A que hora pasa proximo tren) |
-| [El conjunto de Mandelbrot](Enunciados/2._El_conjunto_de_Mandelbrot.pdf) | [Solution](Soluciones/2. Conjunto de Mandelbrot) |
-| [Una tarde de sábado](Enunciados/3._Una_tarde_de_sabado.pdf) | [Solution](Soluciones/3. Una tarde de sabado) |
-| [Wordle numérico](Enunciados/4._Wordle_numerico.pdf) | [Solution](Soluciones/4. Wordle) |
+| [¿A qué hora pasa el próximo tren?](Enunciados/1._A_que_hora_pasa_el_proximo_tren.pdf) | [Solution](Soluciones/1._A_que_hora_pasa_proximo_tren) |
+| [El conjunto de Mandelbrot](Enunciados/2._El_conjunto_de_Mandelbrot.pdf) | [Solution](Soluciones/2._Conjunto_de_Mandelbrot) |
+| [Una tarde de sábado](Enunciados/3._Una_tarde_de_sabado.pdf) | [Solution](Soluciones/3._Una_tarde_de_sabado) |
+| [Wordle numérico](Enunciados/4._Wordle_numerico.pdf) | [Solution](Soluciones/4._Wordle) |
 | [Butacas en el teatro](Enunciados/5._Butacas_en_el_teatro.pdf) | [Solution](Soluciones/5_Butacas_en_el_teatro.cpp) |
 
 ---
