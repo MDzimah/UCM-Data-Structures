@@ -83,7 +83,7 @@
 | [Área más grande de un árbol binario](Enunciados/X3._Area_mas_grande_de_un_arbol_binario.pdf) | [Solution](Soluciones/X3_Area_mas_grande_en_arb_bin.cpp) |
 | [¿Es un árbol binario completo o semicompleto?](Enunciados/X8._Es_un_arbol_binario_completo_o_semicompleto_.pdf) | [Solution](Soluciones/X8_Es_arb_bin_comp_o_semicomp.cpp) |
 | [Subárbol completo más grande](X10._Subarbol_completo_mas_grande.pdf) | [Solution](Soluciones/X10_Subarb_comp_mas_grande.cpp) |
-| [Excursionistas atrapados](27._Excursionistas_atrapados.pdf) | [Solution](27_Excursionistas_atrapados.cpp) |
+| [Excursionistas atrapados](Enunciados/27._Excursionistas_atrapados.pdf) | [Solution](Soluciones/27_Excursionistas_atrapados.cpp) |
 
 ---
 
