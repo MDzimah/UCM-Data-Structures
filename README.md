@@ -7,6 +7,7 @@
 | [Una tarde de sábado](Enunciados/3._Una_tarde_de_sabado.pdf) | [Solution](Soluciones/3._Una_tarde_de_sabado) |
 | [Wordle numérico](Enunciados/4._Wordle_numerico.pdf) | [Solution](Soluciones/4._Wordle) |
 | [Butacas en el teatro](Enunciados/5._Butacas_en_el_teatro.pdf) | [Solution](Soluciones/5_Butacas_en_el_teatro.cpp) |
+| [Un viaje a la luna](Enunciados/32._Un_viaje_a_la_luna.pdf) | [Solution](Soluciones/32_Viajando_a_la_luna.cpp) |
 
 ---
 
