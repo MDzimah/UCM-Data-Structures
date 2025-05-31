@@ -14,7 +14,7 @@
 
 | Problem | Solution |
 | --- | --- |
-| [Duplicar una lista](Enunciados/6._Duplicar_una_lista.pdf) | [Solution](Soluciones/6_Duplicar_lista_enlazada_simple.cpp) |
+| [Duplicar una lista enlazada simple](Enunciados/6._Duplicar_una_lista.pdf) | [Solution](Soluciones/6_Duplicar_lista_enlazada_simple.cpp) |
 | [Invertir una lista enlazada simple](Enunciados/7._Invertir_una_lista_enlazada_simple.pdf) | [Solution](Soluciones/7_Invertir_lista_enlazada_simple.cpp) |
 | [Invertir un segmento de una lista enlazada simple](Enunciados/8._Invertir_un_segmento_de_una_lista_enlazada_simple.pdf) | [Solution](Soluciones/8_Inv_seg_lista_enl_simple.cpp) |
 | [Intersección de listas enlazadas simples](Enunciados/9._Interseccion_de_listas_enlazadas_simples.pdf) | [Solution](Soluciones/9_Intersec_list_enl_simp.cpp) |
