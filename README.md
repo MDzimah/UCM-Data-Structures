@@ -42,6 +42,7 @@
 | [Experimento con hongos](Enunciados/X6._Experimento_con_hongos.pdf) | [Solution](Soluciones/X6_Experimento_con_hongos.cpp) |
 | [Link y el vuelo en paravela](Enunciados/Extra._Link_y_el_vuelo_en_paravela.pdf) | [Solution](Soluciones/Link_y_el_vuelo_en_paravela.cpp) |
 | [Facundo y el undo](Enunciados/Extra._Facundo_y_el_undo.pdf) | [Solution](Soluciones/Facundo_y_el_undo.cpp) |
+| [Bloques bien anidados](Enunciados/X13.Bloques_bien_anidados.pdf) | [Solution](Soluciones/X13_Bloq_anid.cpp) |
 
 ---
 
