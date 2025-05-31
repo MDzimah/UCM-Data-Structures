@@ -7,7 +7,6 @@
 | [Una tarde de sábado](Enunciados/3._Una_tarde_de_sabado.pdf) | [Solution](Soluciones/3._Una_tarde_de_sabado) |
 | [Wordle numérico](Enunciados/4._Wordle_numerico.pdf) | [Solution](Soluciones/4._Wordle) |
 | [Butacas en el teatro](Enunciados/5._Butacas_en_el_teatro.pdf) | [Solution](Soluciones/5_Butacas_en_el_teatro.cpp) |
-| [Un viaje a la luna](Enunciados/32._Un_viaje_a_la_luna.pdf) | [Solution](Soluciones/32_Viajando_a_la_luna.cpp) |
 
 ---
 
@@ -26,6 +25,7 @@
 | [Ordenación por selección](Enunciados/23._Ordenacion_por_seleccion.pdf) | [Solution](Soluciones/23_Ord_por_selec.cpp) |
 | [Suavizar lista de números enteros](Enunciados/Extra._Suavizar_lista_de_numeros_enteros.pdf) | [Solution](Soluciones/Suavizar_una_list_de_num_ent.cpp) |
 | [Rotar una lista hacia la derecha](Enunciados/X14._Rotar_una_lista_hacia_la_derecha.pdf) | [Solution](Soluciones/X14_Rot_dcha_lista.cpp) |
+| [Un viaje a la luna](Enunciados/32._Un_viaje_a_la_luna.pdf) | [Solution](Soluciones/32_Viajando_a_la_luna.cpp) |
 
 ---
 
