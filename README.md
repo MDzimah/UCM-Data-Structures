@@ -10,7 +10,7 @@
 
 ---
 
-## LinkedLists
+## Linked Lists
 
 | Problem | Solution |
 | --- | --- |
@@ -56,7 +56,7 @@
 
 ---
 
-## Binary trees & BST
+## Binary Trees & BST
 
 | Problem | Solution |
 | --- | --- |
