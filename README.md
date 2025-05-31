@@ -65,7 +65,7 @@
 | --- | --- |
 | [Nodos, hojas y altura de un árbol binario](Enunciados/24._Nodos_hojas_y_altura_de_un_arbol_binario.pdf) | [Solution](Soluciones/24_Nodos_hojas_altura_arb_bin.cpp) |
 | [Elemento mínimo de un árbol binario](Enunciados/25._Elemento_minimo_de_un_arbol_binario.pdf) | [Solution](Soluciones/25_Min_de_un_arbol_bin.cpp) |
-| [¿Es un árbol binario completo?](Enunciados/27._Es_un_arbol_binario_completo_.pdf) | [Solution](Soluciones/26_Arb_bin_completo.cpp) |
+| [¿Es un árbol binario completo?](Enunciados/26._Es_un_arbol_binario_completo_.pdf) | [Solution](Soluciones/26_Arb_bin_completo.cpp) |
 | [Diámetro de un árbol binario](Enunciados/28._Diametro_de_un_arbol_binario.pdf) | [Solution](Soluciones/28_Diametro_de_un_arbol.cpp) |
 | [Árboles equilibrados estables](Enunciados/29._Arboles_equilibrados_estables.pdf) | [Solution](Soluciones/29_Arb_eq_est.cpp) |
 | [Salvemos el árbol](Enunciados/30._Salvemos_el_arbol.pdf) | [Solution](Soluciones/30_Salvemos_arbol.cpp) |
@@ -83,6 +83,7 @@
 | [Área más grande de un árbol binario](Enunciados/X3._Area_mas_grande_de_un_arbol_binario.pdf) | [Solution](Soluciones/X3_Area_mas_grande_en_arb_bin.cpp) |
 | [¿Es un árbol binario completo o semicompleto?](Enunciados/X8._Es_un_arbol_binario_completo_o_semicompleto_.pdf) | [Solution](Soluciones/X8_Es_arb_bin_comp_o_semicomp.cpp) |
 | [Subárbol completo más grande](X10._Subarbol_completo_mas_grande.pdf) | [Solution](Soluciones/X10_Subarb_comp_mas_grande.cpp) |
+| [Excursionistas atrapados](27._Excursionistas_atrapados) | [Solution](27_Excursionistas_atrapados.cpp) |
 
 ---
 
