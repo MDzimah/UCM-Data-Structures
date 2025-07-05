@@ -1,7 +1,7 @@
 ## Introduction
 
 | Problem | Solution |
-| --- | --- |
+| --- | :---: |
 | [¿A qué hora pasa el próximo tren?](Enunciados/1._A_que_hora_pasa_el_proximo_tren.pdf) | [↗️ ](Soluciones/1._A_que_hora_pasa_proximo_tren) |
 | [El conjunto de Mandelbrot](Enunciados/2._El_conjunto_de_Mandelbrot.pdf) | [↗️ ](Soluciones/2._Conjunto_de_Mandelbrot) |
 | [Una tarde de sábado](Enunciados/3._Una_tarde_de_sabado.pdf) | [↗️ ](Soluciones/3._Una_tarde_de_sabado) |
@@ -13,7 +13,7 @@
 ## Linked Lists
 
 | Problem | Solution |
-| --- | --- |
+| --- | :---: |
 | [Duplicar una lista enlazada simple](Enunciados/6._Duplicar_una_lista.pdf) | [↗️ ](Soluciones/6_Duplicar_lista_enlazada_simple.cpp) |
 | [Invertir una lista enlazada simple](Enunciados/7._Invertir_una_lista_enlazada_simple.pdf) | [↗️ ](Soluciones/7_Invertir_lista_enlazada_simple.cpp) |
 | [Invertir un segmento de una lista enlazada simple](Enunciados/8._Invertir_un_segmento_de_una_lista_enlazada_simple.pdf) | [↗️ ](Soluciones/8_Inv_seg_lista_enl_simple.cpp) |
@@ -32,7 +32,7 @@
 ## Stacks, Queues & Deques
 
 | Problem | Solution |
-| --- | --- |
+| --- | :---: |
 | [Paréntesis equilibrados](Enunciados/14._Parentesis_equilibrados.pdf) | [↗️ ](Soluciones/14_Parentesis_balan.cpp) |
 | [El alumno afortunado](Enunciados/15._El_alumno_afortunado.pdf) | [↗️ ](Soluciones/15_El_alumno_afortunado.cpp) |
 | [Reordenando la cola](Enunciados/16._Reordenando_la_cola.pdf) | [↗️ ](Soluciones/16_Reordenando_la_cola.cpp) |
@@ -50,7 +50,7 @@
 ## Iterators
 
 | Problem | Solution |
-| --- | --- |
+| --- | :---: |
 | [Teclado estropeado](Enunciados/21._Teclado_estropeado.pdf) | [↗️ ](Soluciones/21_Teclado_estropeado.cpp) |
 | [Iteradores inversos](Enunciados/22._Iteradores_inversos.pdf) | [↗️ ](Soluciones/22_Its_inv.cpp) |
 | [Añadir iteradores a MapHash](Enunciados/45._Anadir_iteradores_a_MapHash.pdf) | [↗️ ](Soluciones/45_Anyadir_its_a_maphash.cpp) |
@@ -62,7 +62,7 @@
 ## Binary Trees & BST
 
 | Problem | Solution |
-| --- | --- |
+| --- | :---: |
 | [Nodos, hojas y altura de un árbol binario](Enunciados/24._Nodos_hojas_y_altura_de_un_arbol_binario.pdf) | [↗️ ](Soluciones/24_Nodos_hojas_altura_arb_bin.cpp) |
 | [Elemento mínimo de un árbol binario](Enunciados/25._Elemento_minimo_de_un_arbol_binario.pdf) | [↗️ ](Soluciones/25_Min_de_un_arbol_bin.cpp) |
 | [¿Es un árbol binario completo?](Enunciados/26._Es_un_arbol_binario_completo_.pdf) | [↗️ ](Soluciones/26_Arb_bin_completo.cpp) |
@@ -90,7 +90,7 @@
 ## Maps & Sets
 
 | Problem | Solution |
-| --- | --- |
+| --- | :---: |
 | [Los k elementos mayores](Enunciados/38._Los_k_elementos_mayores.pdf) | [↗️ ](Soluciones/38_Los_k_elems_mayores.cpp) |
 | [Me pilló el toro](Enunciados/39._Me_pillo_el_toro.pdf) | [↗️ ](Soluciones/39_Me_pillo_el_toro.cpp) |
 | [Referencias cruzadas](Enunciados/40._Referencias_cruzadas.pdf) | [↗️ ](Soluciones/40_Referencias_cruzadas.cpp) |
@@ -108,7 +108,7 @@
 ## Combining different data structures
 
 | Problem | Solution  |
-| --- | --- |
+| --- | :---: |
 | [Carnet por puntos 1](Enunciados/47._Carnet_por_puntos_1.pdf) | [↗️ ](Soluciones/47_Carnet_por_ptos.cpp) |
 | [Autoescuela](Enunciados/48._Autoescuela.pdf) | [↗️ ](Soluciones/48_Autoescuela.cpp) |
 | [Elecciones presidenciales](Enunciados/49._Elecciones_presidenciales.pdf) | [↗️ ](Soluciones/49_Elecciones_presidenciales.cpp) |
