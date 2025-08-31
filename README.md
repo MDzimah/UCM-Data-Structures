@@ -121,3 +121,16 @@
 | [Academia de chino](Enunciados/X9._Academia_de_chino.pdf) | [↗️ ](Soluciones/X9_ChinoAcademy.cpp) |
 | [Gestión de una tienda](Enunciados/X11._Gestion_de_una_tienda.pdf) | [↗️ ](Soluciones/X11_Gestion_de_una_tienda.cpp) |
 | [Detective de moda](Enunciados/X12.Detective_de_moda.pdf) | [↗️ ](Soluciones/X12_Detective_de_moda.cpp) |
+
+---
+
+# Credits
+
+- **Problem set**  
+  Provided by **Dr. José Alberto Verdejo López** (Universidad Complutense de Madrid).  
+  [Linkedin](https://www.linkedin.com/in/alberto-verdejo-76b88798/)
+
+- **Auxiliary Classes (e.g., `ListLinkedDouble`, `BinTree`, etc.)**  
+  Provided by **Dr. Manuel Montenegro Montes** (Universidad Complutense de Madrid).  
+  [Linkedin](https://www.linkedin.com/in/manuel-montenegro-montes-593531213/?originalSubdomain=es)  
+  [GitHub](https://github.com/manuelmontenegro/ED)
